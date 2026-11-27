@@ -79,7 +79,7 @@ cd AWS-MachineLearningLab
 - Experience working with Amazon SageMaker.
 - Understanding of data preparation and model development.
 - Hands-on experience with Machine Learning workflows.
-- Improved Python and Machine Learning skills.
+- Improved Python and Machine Learning skills well enough.
 
 ## 👩‍💻 Author
 
